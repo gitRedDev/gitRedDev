@@ -20,7 +20,7 @@ Keep it simple.
 ![Red1's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitRedDev&show_icons=true&theme=dracula&count_private=true) 
 -->
 
-
+<!--
 ## Languages and Tools:
 
 
@@ -36,15 +36,10 @@ Keep it simple.
 [<img aligh="left" alt="Red - react" width="30px"  src="https://img.icons8.com/color/48/000000/react-native.png"/>][reactjs]
 <img  alt="SQL" width="30px" src="https://img.icons8.com/color/48/000000/sql.png" />
 [<img aligh="left" alt="Red - mysql" width="30px"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>][mysql]
+[<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />][git]
+[<img aligh="left" alt="Red - java" width="30px"  src="https://img.icons8.com/color/48/000000/java.png"/>][java]
+-->
 
-[<img aligh="left" alt="Red - c" width="30px"  src="https://img.icons8.com/color/48/000000/c-programming.png"/>][c]
-https://img.icons8.com/color/48/000000/java.png
-[<img aligh="left" alt="Red - git" width="30px"  src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>][cpp]<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
-
-<br/>
-<br/>
-
-</details>
 
 <!-- socials -->
 [linkedin]: https://www.linkedin.com/in/redouane-karzazi-0a301a207/
@@ -69,3 +64,5 @@ https://img.icons8.com/color/48/000000/java.png
 [mysql]:https://www.mysql.com/
 [c]:'https://en.wikipedia.org/wiki/C_(programming_language)'
 [cpp]:https://en.wikipedia.org/wiki/C%2B%2B
+[java]:https://www.oracle.com/java/technologies/
+[git]:https://git-scm.com/
